@@ -4,7 +4,7 @@ int main()
 {
 	printf("Hello VisualStudio Git!\n");
 
-	printf("New branch Changed!\n");
+	printf("GitHub Clone Changed!\n");
 
 	return 0;
 }
